@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nursyah21.github.io/posts/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/posts/</loc>
     <lastmod>2022-04-21T21:39:10+07:00</lastmod>
   </url><url>
-    <loc>https://nursyah21.github.io/posts/docker-and-laravel/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/posts/docker-and-laravel/</loc>
     <lastmod>2022-04-21T21:39:10+07:00</lastmod>
   </url><url>
-    <loc>https://nursyah21.github.io/posts/interview-preparation-kit/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/posts/interview-preparation-kit/</loc>
     <lastmod>2022-04-21T16:52:47+07:00</lastmod>
   </url><url>
-    <loc>https://nursyah21.github.io/posts/how-i-learn-golang-with-this-repo/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/posts/how-i-learn-golang-with-this-repo/</loc>
     <lastmod>2022-04-08T20:26:59+07:00</lastmod>
   </url><url>
-    <loc>https://nursyah21.github.io/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/</loc>
     <lastmod>2022-04-06T18:34:13+07:00</lastmod>
   </url><url>
-    <loc>https://nursyah21.github.io/posts/publish-hugo-to-github/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/posts/publish-hugo-to-github/</loc>
     <lastmod>2022-04-06T14:18:14+07:00</lastmod>
   </url><url>
-    <loc>https://nursyah21.github.io/about/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/about/</loc>
   </url><url>
-    <loc>https://nursyah21.github.io/categories/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/categories/</loc>
   </url><url>
-    <loc>https://nursyah21.github.io/project/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/project/</loc>
   </url><url>
-    <loc>https://nursyah21.github.io/tags/</loc>
+    <loc>https://nursyah21.github.io/archive_hugo_web/tags/</loc>
   </url>
 </urlset>
